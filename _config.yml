@@ -1,0 +1,7 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+
+title: Ayesha Mehboob
+description: Reflective Portfolio | Computer Science Student | AI Enthusiast
