@@ -253,7 +253,9 @@ To become industry-ready, I need to strengthen my knowledge in:
 ## LinkedIn Profile
 
 I have created my LinkedIn profile to build my professional presence and connect with others in the field. I am still improving it by adding more details about my skills and experiences.
- ![Image Alt](https://github.com/ayeshamehboob319/capstone-reflective-portfolio/blob/main/linked%20in.jpeg?raw=true)
+                                                               
+                                                                
+                                                                ![Image Alt](https://github.com/ayeshamehboob319/capstone-reflective-portfolio/blob/main/linked%20in.jpeg?raw=true)
 
 **LinkedIn:** [https://www.linkedin.com/in/ayesha-mehboob-113056389](https://www.linkedin.com/in/ayesha-mehboob-113056389)
 
