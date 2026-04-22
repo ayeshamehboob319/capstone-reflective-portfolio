@@ -274,7 +274,7 @@ This role is helping me improve:
 
 * Communication skills
 * Teamwork
-* Organization and leadership
+* Organization and leadership   ![Image Alt](https://github.com/ayeshamehboob319/capstone-reflective-portfolio/blob/main/join.jpeg?raw=true)
 
 I also plan to participate in workshops and certifications in the future.
 
