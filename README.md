@@ -1,4 +1,4 @@
-# Ayesha Mehboob  my picture.jpeg
+# Ayesha Mehboob 
 
 ## 1. Introduction
 
