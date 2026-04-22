@@ -1,5 +1,4 @@
-# Ayesha Mehboob  ![Image Alt](https://github.com/ayeshamehboob319/capstone-reflective-portfolio/blob/main/my%20picture.jpeg?raw=true)
-
+# Ayesha Mehboob  
 
 ## 1. Introduction
 
