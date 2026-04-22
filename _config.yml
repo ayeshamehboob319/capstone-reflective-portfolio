@@ -1,7 +1,8 @@
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
+title: Ayesha Mehboob | Professional Portfolio
+description: Computer Science Student | Capstone & Professional Practice 
 
-plugins:
-  - jekyll-remote-theme
-
-title: Ayesha Mehboob
-description: Reflective Portfolio | Computer Science Student | AI Enthusiast
+# Custom Branding
+# This creates that modern purple look you chose
+primary-color: "#6C63FF" 
+secondary-color: "#4B45B2"
