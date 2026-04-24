@@ -6,19 +6,20 @@
 /* Header layout fix */
 .page-header {
   position: relative;
-  padding-left: 200px; /* space for image */
+  padding-right: 250px; /* ✅ Adds space on the RIGHT for the image */
+  padding-left: 1rem;    /* Resets left padding to default */
   text-align: left;
 }
 
-/* Profile image on LEFT */
+/* Profile image on RIGHT */
 .page-header::before {
   content: "";
   position: absolute;
-  left: 30px;  /* ✅ stays on left side */
+  right: 30px;  /* ✅ Changed from 'left' to 'right' */
   top: 50%;
   transform: translateY(-50%);
-  width: 200px;   /* 🔥 bigger image */
-  height: 200px;  /* 🔥 bigger image */
+  width: 200px;   
+  height: 200px;  
 
   background-image: url("https://raw.githubusercontent.com/ayeshamehboob319/capstone-reflective-portfolio/main/WhatsApp%20Image%202026-04-22%20at%205.27.38%20PM.jpeg");
 
@@ -28,3 +29,4 @@
   border-radius: 50%;
   border: 5px solid white;
 }
+
