@@ -30,73 +30,8 @@ I am interested in exploring different fields, especially:
 
 ---
 
-# 2. Weekly Reflections (Week 1–4)
 
-## Week 1 – Personal Branding
-
-### What I Learned
-
-I initially thought personal branding was only for influencers, but I learned it is about how people perceive you online as a professional. For a CS student, this includes LinkedIn, GitHub, projects, and online communication. I also learned the importance of combining skills, projects, attitude, and online presence. Networking is not about awkward interactions but about building genuine professional relationships.
-
-### Key Insight
-
-> Your degree may open opportunities, but your digital presence is what actually gets you noticed by recruiters and companies.
-
-### Real-Life Application
-
-I updated my LinkedIn profile to better reflect my interests in AI and cybersecurity. I also organized my GitHub and improved my project documentation with proper README files so others can understand my work more easily.
-
----
-
-## Week 2 – Codes of Conduct (IEEE, ACM, BCS)
-
-### What I Learned
-
-I learned that professional codes of conduct are not just formal documents but real guidelines that influence ethical decisions in computing. IEEE focuses on public safety, ACM emphasizes honesty and privacy, and BCS highlights responsibility toward society and employers.
-
-### Key Insight
-
-> Public safety must always come first, even if it conflicts with deadlines or organizational pressure. Ethical responsibility is non-negotiable in computing.
-
-### Real-Life Application
-
-I reflected on past work where I used data without clearly explaining its purpose. After this lecture, I understood the importance of informed consent and will ensure ethical data usage in future projects.
-
----
-
-## Week 3 – Lifelong Learning
-
-### What I Learned
-
-I learned that technology evolves very quickly, and continuous learning is necessary to stay relevant in the field. We studied how to build a skills roadmap from beginner to advanced levels. Certifications like AWS and CompTIA Security+ are useful, but deep understanding is more important than collecting certificates.
-
-### Key Insight
-
-> If learning stops after graduation, a person does not stay at the same level—they actually fall behind in the tech industry.
-
-### Real-Life Application
-
-I created a personal roadmap for AI and cybersecurity for my remaining semesters. I also selected online resources and committed to regularly learning new concepts instead of relying only on coursework.
-
----
-
-## Week 4 – Ethics in Computing
-
-### What I Learned
-
-I learned about serious ethical issues in computing such as AI bias and cybersecurity responsibility. AI systems can unintentionally become biased due to training data, such as hiring systems preferring certain groups or facial recognition performing poorly on darker skin tones.
-
-### Key Insight
-
-> Technology is not neutral; it affects real people. Every system must be evaluated from the perspective of those who will be impacted by it.
-
-### Real-Life Application
-
-I tested a previous machine learning model I built and discovered it failed on inputs outside its training data. This made me realize the importance of testing systems thoroughly and considering fairness and limitations before finalizing any model.
-
----
-
-# 3. Ethics Reflection
+# 2. Ethics Reflection
 
 ## Ethical Issue: Data Privacy and User Consent
 
@@ -140,7 +75,7 @@ For me, building ethical systems means putting user trust and rights above profi
 
 ---
 
-# 4. Skills and Career Development Plan
+# 3. Skills and Career Development Plan
 
 ## Skills I Currently Have
 
@@ -214,7 +149,7 @@ To become industry-ready, I need to strengthen my knowledge in:
 
 ---
 
-# 5. Project Reflection
+# 4. Project Reflection
 
 ## Project Title: Impact of Social Media on Health
 
@@ -248,7 +183,7 @@ To become industry-ready, I need to strengthen my knowledge in:
 
 ---
 
-# 6. Professional Development
+# 5. Professional Development
 
 ## LinkedIn Profile
 
@@ -274,13 +209,13 @@ This role is helping me improve:
 
 * Communication skills
 * Teamwork
-* Organization and leadership   ![Image Alt](https://github.com/ayeshamehboob319/capstone-reflective-portfolio/blob/main/join.jpeg?raw=true)
+* Organization and leadership  
 
 I also plan to participate in workshops and certifications in the future.
 
 ---
 
-# 7. Final Reflection
+# 6. Final Reflection
 
 ## How This Course Changed My Thinking
 
@@ -304,7 +239,7 @@ In the future, I will:
 
 ---
 
-# 8. Conclusion
+# 7. Conclusion
 
 This course has been a very important part of my academic journey. It not only improved my technical understanding but also helped me grow personally and professionally. I learned how to work effectively in a team, communicate ideas clearly, and think critically about real-world problems.
 
