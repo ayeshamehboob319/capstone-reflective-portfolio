@@ -193,7 +193,7 @@ I have created my LinkedIn profile to build my professional presence and connect
 
 ---
 
-## GitHub Portfolio
+## GitHub Profile
 
 I have recently created my GitHub profile and started building my portfolio. I am still learning how to upload and manage projects, and I plan to add my academic projects and practice work in the future.
 
