@@ -1,7 +1,7 @@
 
-# 🌟 Ayesha Mehboob – Computer Science Portfolio
+# 🌟 Ayesha Mehboob – Computer Science 
 
-Welcome to my portfolio! 👋  
+Welcome to my Profile 👋  
 I am a Computer Science student passionate about learning new technologies, solving real-world problems, and building practical software solutions. This repository reflects my learning journey, technical skills, and hands-on projects.
 
 ---
