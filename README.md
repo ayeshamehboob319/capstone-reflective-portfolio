@@ -123,14 +123,14 @@ I am interested in exploring different fields, especially:
 ### 🔗 LinkedIn
 I have created my LinkedIn profile to build my professional presence and connect with others in the field.
 
-👉 https://www.linkedin.com/in/ayesha-mehboob-113056389  
+👉 [Visit My LinkedIn](https://www.linkedin.com/in/ayesha-mehboob-113056389)
 
 ---
 
 ### 💻 GitHub
 I am actively building my GitHub profile by adding projects and improving my skills.
 
-👉 https://github.com/ayeshamehboob319  
+👉 [Visit My GitHub](https://github.com/ayeshamehboob319)
 
 ---
 
@@ -141,10 +141,9 @@ I am actively building my GitHub profile by adding projects and improving my ski
 ---
 
 ## 📬 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/ayesha-mehboob-113056389  
-- 💻 GitHub: https://github.com/ayeshamehboob319  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-mehboob-113056389)  
+- 💻 [GitHub](https://github.com/ayeshamehboob319)  
 
 ---
 
 ⭐ *Thank you for visiting my portfolio!*
-
