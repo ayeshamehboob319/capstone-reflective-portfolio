@@ -1,8 +1,8 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Ayesha Mehboob | Professional Portfolio
-description: Computer Science Student | Capstone & Professional Practice 
+description: Computer Science Student | Portfolio
 
 # Custom Branding
 # This creates that modern purple look you chose
-primary-color: "#6C63FF" 
+primary-color: "#6C63FF"
 secondary-color: "#4B45B2"
