@@ -1,26 +1,25 @@
+# 🌟 Ayesha Mehboob
 
-# 🌟 Ayesha Mehboob – Computer Science 
-
-Welcome to my Profile 👋  
-I am a Computer Science student passionate about learning new technologies, solving real-world problems, and building practical software solutions. This repository reflects my learning journey, technical skills, and hands-on projects.
-
----
-
-## 👩‍💻 About Me
-
-My name is **Ayesha Mehboob**, and I am a 4th semester BS Computer Science student at Fatima Jinnah Women University. I am deeply curious about how technology works and enjoy learning through practical implementation and project-based learning.
-
-I continuously work on improving my programming, problem-solving, and analytical skills by building small to medium-scale projects and exploring new technologies.
+Welcome to my Profile  
+I am a Computer Science student passionate about learning new technologies and building practical solutions. This repository represents my journey, skills, and projects.
 
 ---
 
-## 🎯 Career Interests
+## 👩‍💻 Introduction
 
-I am currently exploring the following domains:
+### About Me
+My name is Ayesha Mehboob, and I am a 4th semester BS Computer Science student at Fatima Jinnah Women University. I am curious about how technology works and enjoy learning through practical experience.
 
-- 🤖 Artificial Intelligence – Understanding intelligent systems and automation  
-- 🔐 Cybersecurity – Learning how to protect systems, networks, and data  
-- ☁️ Cloud Computing – Exploring scalable modern application infrastructures  
+During my studies, I have developed basic skills in programming and problem-solving. I like working on small projects, exploring new ideas, and improving my understanding step by step.
+
+---
+
+### 🎯 Career Interests
+I am interested in exploring different fields, especially:
+
+- **Artificial Intelligence:** Learning how intelligent systems work  
+- **Cybersecurity:** Understanding how to protect systems and data  
+- **Cloud Computing:** Learning how modern applications run on cloud platforms  
 
 ---
 
@@ -59,45 +58,52 @@ A system administration and networking-based project.
 - Applied Linux commands, permissions, and system security  
 - Gained practical experience in networking and virtualization  
 
----
-
-## 🛠️ Technical Skills
-
-| Category | Skills |
-|----------|--------|
-| 💻 Programming | Python, JavaScript |
-| 🌐 Web Development | HTML, CSS, JavaScript |
-| 🗄️ Databases | MySQL, PostgreSQL, SQL |
-| 🖥️ Systems | Linux, VirtualBox, Networking Basics |
-| 🔧 Tools | Git, GitHub, VS Code, Jupyter Notebook |
 
 ---
 
-## ⚙️ Currently Learning
+## 🛠️ Skills & Career Development
 
-- Data Structures & Algorithms (Problem Solving)  
-- Cloud Computing (AWS Fundamentals)  
-- Cybersecurity Basics & Ethical Hacking  
-- Machine Learning Foundations  
-- Open Source Contribution (Git/GitHub)  
+### 💻 Technical Skills
+- Python Programming  
+- SQL & Database Design  
+- HTML, CSS, JavaScript  
+- Linux Command Line  
+- Basic Networking  
 
 ---
 
-## 🤝 Soft Skills
+### ⚙️ Tools & Technologies
+- Git & GitHub  
+- Visual Studio Code  
+- MySQL & PostgreSQL  
+- Jupyter Notebook  
+- Figma (Basic)  
 
-- Problem Solving 🧠  
-- Communication 🗣️  
-- Teamwork 🤝  
-- Time Management ⏳  
-- Critical Thinking 🔍  
+---
+
+### 🤝 Soft Skills
+- Problem-solving  
+- Communication  
+- Teamwork  
+- Time Management  
+- Critical Thinking  
+
+---
+
+## 📈 Skills I Am Developing
+- Cloud Computing (AWS/Azure)  
+- Docker & Kubernetes  
+- Machine Learning & MLOps  
+- Cybersecurity & Ethical Hacking  
+- Data Structures & Algorithms  
+- System Design  
 
 ---
 
 ## 📜 Certifications (Planned)
-
 - CompTIA Security+  
 - AWS Cloud Practitioner  
-- Google Machine Learning Engineer  
+- Google ML Engineer  
 - Certified Ethical Hacker (CEH)  
 - CISSP (Associate Level)  
 
@@ -105,43 +111,44 @@ A system administration and networking-based project.
 
 ## 🎯 Career Goals
 
-### 🚀 Short-Term Goals
-- Secure internship in a technical field  
-- Strengthen GitHub portfolio with real projects  
-- Improve coding and problem-solving skills  
+### 🔹 Short-Term
+- Gain internship or entry-level experience  
+- Build strong GitHub portfolio  
+- Improve practical and technical skills  
 
-### 🌍 Long-Term Goals
+### 🔹 Long-Term
 - Become a professional in AI or Cybersecurity  
-- Work on secure, scalable, and intelligent systems  
-- Contribute to innovative technology solutions  
+- Work on secure and intelligent systems  
+- Continue learning advanced technologies  
 
 ---
 
-## 🌐 Professional Profiles
+## 🌐 Professional Development
 
 ### 🔗 LinkedIn
-Connect with me professionally:  
-👉 https://www.linkedin.com/in/ayesha-mehboob-113056389  
+I have created my LinkedIn profile to build my professional presence and connect with others in the field.
+
+👉 [Visit My LinkedIn](https://www.linkedin.com/in/ayesha-mehboob-113056389)
+
+---
 
 ### 💻 GitHub
-Explore my projects and code:  
-👉 https://github.com/ayeshamehboob319  
+I am actively building my GitHub profile by adding projects and improving my skills.
+
+👉 [Visit My GitHub](https://github.com/ayeshamehboob319)
 
 ---
 
-## 🏆 Experience & Activities
-
+### 🏆 Activities & Experience
 - Media Coordinator – SBS Cabinet (FJWU)  
-- Developed leadership, teamwork, and communication skills  
-- Actively involved in academic and technical growth activities  
+- Improving communication, teamwork, and leadership skills  
 
 ---
 
-## 📬 Contact
-
-- 🔗 LinkedIn: Ayesha Mehboob  
-- 💻 GitHub: ayeshamehboob319  
+## 📬 Connect With Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-mehboob-113056389)  
+- 💻 [GitHub](https://github.com/ayeshamehboob319)  
 
 ---
 
-⭐ Thank you for visiting my portfolio! I am open to learning opportunities, internships, and collaborations in software development, AI, and cybersecurity.
+⭐ *Thank you for visiting my portfolio!*
